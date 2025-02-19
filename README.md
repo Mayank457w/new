@@ -1,3 +1,4 @@
 # new
 learning
-AUTHOR-Mayank Singh
+<br>
+Author - Mayank Singh
